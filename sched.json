@@ -1,0 +1,20 @@
+{
+  "Monday": [
+    {"start": "09:00", "end": "11:00", "course": "computer"},
+    {"start": "13:00", "end": "15:00", "course": "computer"}
+  ],
+  "Tuesday": [
+    {"start": "12:00", "end": "13:00", "course": "computer club"}
+  ],
+  "Wednesday": [
+    {"start": "09:00", "end": "12:00", "course": "computer"}
+  ],
+  "Thursday": [
+    {"start": "09:00", "end": "12:00", "course": "computer"}
+  ],
+  "Friday": [
+    {"start": "09:00", "end": "12:00", "course": "computer"},
+    {"start": "13:00", "end": "15:00", "course": "computer"},
+    {"start": "16:00", "end": "21:00", "course": "honours class"}
+  ]
+}
